@@ -25,3 +25,6 @@ This website was created to meet the technical test needs provided by the Talena
 # TECHNOLOGIES USED
 
 NEXT JS, TYPESCRIPT, TAILWIND CSS, SHADCN UI
+
+# AUTHOR
+**Name**: [Rinaldi Ihsan Setiawan]
