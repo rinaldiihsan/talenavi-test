@@ -79,7 +79,7 @@ export default function TaskTable({ data, updateData, statusOptions, priorityOpt
   return (
     <div className="rounded border">
       <Table>
-        <TableHeader className="bg-blue-500 py-96">
+        <TableHeader className="bg-blue-500 py-96 ">
           <TableRow>
             {['Task', 'Developer', 'Status', 'Priority', 'Type', 'Date', 'Estimated SP', 'Actual SP'].map((title) => (
               <TableHead key={title} className="text-white py-4">
